@@ -9,6 +9,22 @@
   
 </ul>
 
+
+<h2>Let's Connect</h2>
+
+<p>
+  Thank you for visiting my Github. Let's build the future together, one line of code at a time.
+</p>
+
+<p>
+  If you have questions, want to collaborate, or just chat about tech, I'm just a message away. 
+  <br>Reach out to me on LinkedIn:
+  <a href="http://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn Profile</a>
+  
+  You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a> as well.
+</p>
+
+
 <h2>Skills</h2>
 
 <h4>Machine learning</h4>
@@ -37,21 +53,6 @@
 <a href="https://en.wikipedia.org/wiki/Deep_neural_network" rel="nofollow"><img src="https://camo.githubusercontent.com/49b8edd97731a94ca337d571acda1aaecca7277b53d187a6d822af0fa5a97049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444e4e2d446565702532304e657572616c2532304e6574776f726b2d696e666f726d6174696f6e616c2e7376673f7374796c653d666f722d7468652d6261646765" alt="DNN badge" data-canonical-src="https://img.shields.io/badge/DNN-Deep%20Neural%20Network-informational.svg?style=for-the-badge" style="max-width: 100%;"></a>
 <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" rel="nofollow"><img src="https://camo.githubusercontent.com/07887be0beac698e7377dfbe3cb6fd00bfa8af36a532b5d954f01ad4c0102a0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f524e4e2d526563757272656e742532304e657572616c2532304e6574776f726b2d696e666f726d6174696f6e616c2e7376673f7374796c653d666f722d7468652d6261646765" alt="RNN badge" data-canonical-src="https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-informational.svg?style=for-the-badge" style="max-width: 100%;"></a>
 <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" rel="nofollow"><img src="https://camo.githubusercontent.com/8c818b004159914115387cbb3de7c650c23a95b829c4ada81d7c1d208aaef7a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47414e2d47656e65726174697665253230416476657273617269616c2532304e6574776f726b2d696e666f726d6174696f6e616c2e7376673f7374796c653d666f722d7468652d6261646765" alt="GAN badge" data-canonical-src="https://img.shields.io/badge/GAN-Generative%20Adversarial%20Network-informational.svg?style=for-the-badge" style="max-width: 100%;"></a></p>
-
-
-<h2>Let's Connect</h2>
-
-<p>
-  Thank you for visiting my Github. Let's build the future together, one line of code at a time.
-</p>
-
-<p>
-  If you have questions, want to collaborate, or just chat about tech, I'm just a message away. 
-  <br>Reach out to me on LinkedIn:
-  <a href="http://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn Profile</a>
-  
-  You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a> as well.
-</p>
 
 
 
