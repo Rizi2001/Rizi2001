@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Rizwan Karim</h1>
 
-<p dir="auto">A Data Scienctist and an AI enthusiast working in the Healtcare Sector. I develope machine learning algorithms and use Deep Learning models to solve day to day business problems</p>
+<p dir="auto">A Data Scientist and an AI enthusiast working in the Healtcare Sector. I develope machine learning algorithms and use Deep Learning models to solve day to day business problems</p>
 <p dir="auto">Collaborating on projects, chatting about tech, and always looking trying out new technologies, to make the best out of them.</p>
 <br>
 <p dir="auto">Check out my latest repository <b>TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
@@ -25,7 +25,7 @@
 
 <p dir="auto"><a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://camo.githubusercontent.com/7ec2169b1f0c2666a1b31e16e303b2ac9f522363905abb1860c0c282408e328b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d6c6561726e2d2532333030383030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e" alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit-learn-%23008000.svg?style=for-the-badge&amp;logo=scikit-learn" style="max-width: 100%;"></a>
 <a href="https://pytorch.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/69f960d6ced1e95b019ae77b3d77a8cd1a69df0091406c1963ef4361c8f37962/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d2532334545344332432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7079746f726368" alt="PyTorch" data-canonical-src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=pytorch" style="max-width: 100%;"></a>
-<a href="https://www.tensorflow.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/d105833b1ce5fbadd5e9d0203b00035682b54d6c4a0565cde64945c7ef137631/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77" alt="TensorFlow" data-canonical-src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=tensorflow" style="max-width: 100%;"></a>
+
 <a href="https://scikit-optimize.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/63dc74469b8b590eb3defcd46de401d27cf46db8b35ccd7ed924105b06a254e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d6f7074696d697a652d2532334630453434322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6f7074696d697a65" alt="scikit-optimize" data-canonical-src="https://img.shields.io/badge/scikit-optimize-%23F0E442.svg?style=for-the-badge&amp;logo=scikit-optimize" style="max-width: 100%;"></a></p>
 
 <p dir="auto"><a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://camo.githubusercontent.com/7ec2169b1f0c2666a1b31e16e303b2ac9f522363905abb1860c0c282408e328b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d6c6561726e2d2532333030383030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e" alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit-learn-%23008000.svg?style=for-the-badge&amp;logo=scikit-learn" style="max-width: 100%;"></a>
