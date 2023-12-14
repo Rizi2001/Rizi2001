@@ -1,27 +1,37 @@
 <h1>Hi there, I'm Rizwan Karim</h1>
 
-<p dir="auto">A Data Scientist and an AI enthusiast working in the Healtcare Sector. I develope machine learning algorithms and use Deep Learning models to solve day to day business problems</p>
+<p dir="auto">A Data Scientist and an AI enthusiast working in the Healtcare Sector. I develope machine learning algorithms, use Deep Learning models and utilize Google Cloud to solve day to day business problems</p>
 <p dir="auto">Collaborating on projects, chatting about tech, and always looking trying out new technologies, to make the best out of them.</p>
 <br>
 <p dir="auto">Check out my latest repository <b>TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
-<br>
-<p dir="auto">Let's build the future together, one line of code at a time.</p>
+
 <ul dir="auto">
   
-<li>✉️&nbsp; You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a></li>
 </ul>
+
+<h2>Let's Connect</h2>
+
+<p>
+  Thank you for visiting my Github. Let's build the future together, one line of code at a time.
+</p>
+
+<p>
+  If you have questions, want to collaborate, or just chat about tech, I'm just a message away. Reach out to me on LinkedIn:
+  <a href="http://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn Profile</a>
+  
+  You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a> as well.
+</p>
+
 
 <h2>Skills</h2>
 
-<h3>Artificial Intelligence</h3>
+<h4>Machine learning</h4>
 
-<h3>Machine learning</h3>
+<h4>Deep learning</h4>
 
-<h3>Deep learning</h3>
+<h4>Natural Language Processing</h4>
 
-<h3>Natural Language Processing</h3>
-
-<h3>Computer Vision</h3>
+<h4>Computer Vision</h4>
 
 <p dir="auto"><a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://camo.githubusercontent.com/7ec2169b1f0c2666a1b31e16e303b2ac9f522363905abb1860c0c282408e328b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d6c6561726e2d2532333030383030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e" alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit-learn-%23008000.svg?style=for-the-badge&amp;logo=scikit-learn" style="max-width: 100%;"></a>
 <a href="https://scikit-optimize.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/63dc74469b8b590eb3defcd46de401d27cf46db8b35ccd7ed924105b06a254e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d6f7074696d697a652d2532334630453434322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6f7074696d697a65" alt="scikit-optimize" data-canonical-src="https://img.shields.io/badge/scikit-optimize-%23F0E442.svg?style=for-the-badge&amp;logo=scikit-optimize" style="max-width: 100%;"></a></p>
