@@ -17,7 +17,7 @@
 
 <p>
   If you have questions, want to collaborate, or just chat about tech, I'm just a message away. 
-  Reach out to me on LinkedIn:
+  <br>Reach out to me on LinkedIn:
   <a href="http://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn Profile</a>
   
   You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a> as well.
