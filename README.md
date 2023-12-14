@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Rizwan Karim</h1>
 
 <p dir="auto">A Data Scientist and an AI enthusiast working in the Healtcare Sector. I develop machine learning algorithms, use Deep Learning models and utilize Google Cloud to solve day to day business problems</p>
-<p dir="auto">Collaborating on projects, chatting about tech, and always looking trying out new technologies, to make the best out of them.</p>
+<p dir="auto">Collaborating on projects, chatting about tech, and always trying out new technologies, to make the best out of them.</p>
 
-<p dir="auto">Check out my latest repository <b>TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
+<p dir="auto">Check out my latest repository <b><a href="https://github.com/Rizi2001/TechGallery" target="_blank">TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
 
 <ul dir="auto">
   
