@@ -3,7 +3,7 @@
 <p dir="auto">A Data Scienctist and an AI enthusiast working in the Healtcare Sector. Developed machine learning algorithms for healthcare revolving around core NLP (Natural Language Processing) problems.</p>
 <p dir="auto">Collaborating on projects, chatting about tech, and always looking trying out new technologies, to make the best out of them.</p>
 <br>
-<p dir="auto">Check out my latest repository **TechGallery** down here, which is a centralized repository of some of my projects.</p>
+<p dir="auto">Check out my latest repository <b>TechGallery</b>b> down here, which is a centralized repository of some of my projects.</p>
 <br>
 <p dir="auto">Let's build the future together, one line of code at a time.</p>
 <ul dir="auto">
