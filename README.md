@@ -3,7 +3,7 @@
 <p dir="auto">A Data Scienctist and an AI enthusiast working in the Healtcare Sector. Developed machine learning algorithms for healthcare revolving around core NLP (Natural Language Processing) problems.</p>
 <p dir="auto">Collaborating on projects, chatting about tech, and always looking trying out new technologies, to make the best out of them.</p>
 <br>
-<p dir="auto">Check out my latest repository <b>TechGallery</b>b> down here, which is a centralized repository of some of my projects.</p>
+<p dir="auto">Check out my latest repository <b>TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
 <br>
 <p dir="auto">Let's build the future together, one line of code at a time.</p>
 <ul dir="auto">
@@ -12,6 +12,8 @@
 </ul>
 
 <h2 tabindex="-1" dir="auto"><a id="user-content-skills" class="anchor" aria-hidden="true" tabindex="-1" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Skills</h2>
+
+<h3> Skills 2 </h3>
 
 <h3 tabindex="-1" dir="auto"><a id="user-content-artificial-intelligence" class="anchor" aria-hidden="true" tabindex="-1" href="#artificial-intelligence"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Artificial Intelligence</h3>
 <p dir="auto"><a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://camo.githubusercontent.com/7ec2169b1f0c2666a1b31e16e303b2ac9f522363905abb1860c0c282408e328b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d6c6561726e2d2532333030383030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e" alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit-learn-%23008000.svg?style=for-the-badge&amp;logo=scikit-learn" style="max-width: 100%;"></a>
