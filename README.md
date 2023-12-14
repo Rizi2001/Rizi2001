@@ -2,7 +2,7 @@
 
 <p dir="auto">A Data Scientist and an AI enthusiast working in the Healtcare Sector. I develope machine learning algorithms, use Deep Learning models and utilize Google Cloud to solve day to day business problems</p>
 <p dir="auto">Collaborating on projects, chatting about tech, and always looking trying out new technologies, to make the best out of them.</p>
-<br>
+
 <p dir="auto">Check out my latest repository <b>TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
 
 <ul dir="auto">
@@ -16,7 +16,8 @@
 </p>
 
 <p>
-  If you have questions, want to collaborate, or just chat about tech, I'm just a message away. Reach out to me on LinkedIn:
+  If you have questions, want to collaborate, or just chat about tech, I'm just a message away. 
+  Reach out to me on LinkedIn:
   <a href="http://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn Profile</a>
   
   You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a> as well.
