@@ -1,38 +1,52 @@
 <h1>Hi, I'm Rizwan Karim 👋</h1>
 
 <p>
-  <strong>AI / ML Engineer & Data Scientist</strong> working in
-  <strong>Healthcare & Enterprise AI</strong>.
+  <strong>AI / ML Engineer & Data Scientist</strong> building
+  <strong>production-grade AI systems</strong> for
+  <strong>Healthcare & Enterprise use cases</strong>.
 </p>
 
 <p>
-  I build <strong>production-grade AI systems</strong> involving:
+  I specialize in designing, evaluating, and deploying AI systems involving:
 </p>
 
 <ul>
   <li>LLMs & Generative AI</li>
   <li>Speech-to-Text pipelines</li>
-  <li>Natural Language Processing</li>
+  <li>NLP & Computer Vision</li>
   <li>Cloud ML (GCP / Vertex AI)</li>
 </ul>
 
 <hr>
 
-<h2>📌 Featured Work</h2>
+<h2>📌 Featured Projects</h2>
 
 <ul>
-  <li><strong>LLM-Based Healthcare Assistant</strong> – Structured medical Q&A using modern LLM frameworks</li>
-  <li><strong>Real-Time Speech-to-Text API</strong> – Production-ready STT using Faster-Whisper</li>
-  <li><strong>Embedding-Based QA Systems</strong> – Semantic search & chatbot pipelines</li>
+  <li>
+    <strong>LLM Healthcare Assistant</strong> –
+    AI-driven medical Q&A and decision-support using modern LLM frameworks
+  </li>
+  <li>
+    <strong>Real-Time Speech-to-Text API</strong> –
+    Production-ready transcription service using Faster-Whisper
+  </li>
+  <li>
+    <strong>Embedding-Based Chatbot</strong> –
+    Semantic search and QA system with evaluation and confidence handling
+  </li>
+  <li>
+    <strong>LangChain Text-to-SQL</strong> –
+    Natural language querying over structured data using LLMs
+  </li>
 </ul>
 
 <hr>
 
-<h2>🧠 Core Skills & Technologies</h2>
+<h2>🧠 Core Skills & Tech Stack</h2>
 
 <p>
   <strong>Languages & Frameworks:</strong><br>
-  Python · PyTorch · TensorFlow · LangChain · DSPy
+  Python · PyTorch · LangChain · DSPy · Flask · Django
 </p>
 
 <p>
@@ -41,7 +55,7 @@
 </p>
 
 <p>
-  <strong>Cloud & MLOps:</strong><br>
+  <strong>Cloud & Deployment:</strong><br>
   Google Cloud Platform · Vertex AI · REST APIs · Model Deployment
 </p>
 
@@ -50,11 +64,8 @@
 <h2>🤝 Let's Connect</h2>
 
 <p>
-  Thanks for visiting my GitHub. Let’s build reliable and impactful AI systems—one line of code at a time.
-</p>
-
-<p>
-  If you’d like to collaborate, discuss AI, or explore opportunities:
+  I enjoy working on real-world AI problems, especially where reliability,
+  evaluation, and scalability matter.
 </p>
 
 <ul>
