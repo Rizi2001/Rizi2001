@@ -1,37 +1,67 @@
-<h1>Hi there, I'm Rizwan Karim</h1>
+<h1>Hi, I'm Rizwan Karim 👋</h1>
 
-<p dir="auto">A Data Scientist and an AI enthusiast working in the Healtcare Sector. I develop machine learning algorithms, use Deep Learning models and utilize Google Cloud to solve day to day business problems</p>
-<p dir="auto">Collaborating on projects, chatting about tech, and always trying out new technologies, to make the best out of them.</p>
+<p>
+  <strong>AI / ML Engineer & Data Scientist</strong> working in
+  <strong>Healthcare & Enterprise AI</strong>.
+</p>
 
-<p dir="auto">Check out my latest repository <b><a href="https://github.com/Rizi2001/TechGallery" target="_blank">TechGallery</b> down here, which is a centralized repository of some of my projects.</p>
+<p>
+  I build <strong>production-grade AI systems</strong> involving:
+</p>
 
-<ul dir="auto">
-  
+<ul>
+  <li>LLMs & Generative AI</li>
+  <li>Speech-to-Text pipelines</li>
+  <li>Natural Language Processing</li>
+  <li>Cloud ML (GCP / Vertex AI)</li>
 </ul>
 
+<hr>
 
-<h2>Let's Connect</h2>
+<h2>📌 Featured Work</h2>
+
+<ul>
+  <li><strong>LLM-Based Healthcare Assistant</strong> – Structured medical Q&A using modern LLM frameworks</li>
+  <li><strong>Real-Time Speech-to-Text API</strong> – Production-ready STT using Faster-Whisper</li>
+  <li><strong>Embedding-Based QA Systems</strong> – Semantic search & chatbot pipelines</li>
+</ul>
+
+<hr>
+
+<h2>🧠 Core Skills & Technologies</h2>
 
 <p>
-  Thank you for visiting my Github. Let's build the future together, one line of code at a time.
+  <strong>Languages & Frameworks:</strong><br>
+  Python · PyTorch · TensorFlow · LangChain · DSPy
 </p>
 
 <p>
-  If you have questions, want to collaborate, or just chat about tech, I'm just a message away. 
-  <br>Reach out to me on LinkedIn:
-  <a href="http://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn Profile</a>
-  
-  You can contact me at <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a> as well.
+  <strong>AI / ML:</strong><br>
+  Machine Learning · Deep Learning · NLP · Computer Vision · LLM Evaluation
 </p>
 
+<p>
+  <strong>Cloud & MLOps:</strong><br>
+  Google Cloud Platform · Vertex AI · REST APIs · Model Deployment
+</p>
 
-<h2>Skills</h2>
+<hr>
 
-<h4>Machine learning</h4>
+<h2>🤝 Let's Connect</h2>
 
-<h4>Deep learning</h4>
+<p>
+  Thanks for visiting my GitHub. Let’s build reliable and impactful AI systems—one line of code at a time.
+</p>
 
-<h4>Natural Language Processing</h4>
+<p>
+  If you’d like to collaborate, discuss AI, or explore opportunities:
+</p>
 
-<h4>Computer Vision</h4>
-
+<ul>
+  <li>
+    🔗 <a href="https://www.linkedin.com/in/rizi2001" target="_blank">LinkedIn</a>
+  </li>
+  <li>
+    📫 <a href="mailto:karimrizwan112@gmail.com">karimrizwan112@gmail.com</a>
+  </li>
+</ul>
