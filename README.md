@@ -24,19 +24,27 @@
 <ul>
   <li>
     <strong>LLM Healthcare Assistant</strong> –
-    AI-driven medical Q&A and decision-support using modern LLM frameworks
+    AI-driven healthcare assistant using LLMs, RAG, evaluation, and fine-tuning
   </li>
   <li>
     <strong>Real-Time Speech-to-Text API</strong> –
-    Production-ready transcription service using Faster-Whisper
+    Production-ready Django-based transcription service using Faster-Whisper
+  </li>
+  <li>
+    <strong>GCP AI Use Cases</strong> –
+    Applied integrations with Vertex AI, Healthcare APIs, Enterprise Search, and streaming Speech-to-Text
   </li>
   <li>
     <strong>Embedding-Based Chatbot</strong> –
-    Semantic search and QA system with evaluation and confidence handling
+    Semantic search and QA system with confidence-aware responses and evaluation pipelines
   </li>
   <li>
-    <strong>LangChain Text-to-SQL</strong> –
-    Natural language querying over structured data using LLMs
+    <strong>LangChain Text-to-SQL (R&amp;D)</strong> –
+    Experimental natural language querying over BigQuery using LangChain and Vertex AI
+  </li>
+  <li>
+    <strong>Whisper Benchmarking (R&amp;D)</strong> –
+    Comparative analysis of Whisper vs Faster-Whisper for inference speed and accuracy
   </li>
 </ul>
 
